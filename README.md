@@ -1,2 +1,3 @@
-# admiratly2HA
+# admiralty2HA
 Getting data from admiralty api into Home Assistant
+
